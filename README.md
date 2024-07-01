@@ -39,7 +39,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 
 
-## Other Skills:
+## Other Skills :
 - Communication.
 - Software development.
 - Risk analysis.
@@ -55,3 +55,35 @@ I am a passionate computer science teacher. I have been teaching programming lan
 - Customer service.
 - Leadership & Management.
 - Change management.
+
+## 💼   Employment History :
+
+| Designation | Company Name | Duration | Location |
+|-------------|--------------|----------|----------|
+| Jr.H.Engr   | Crown wears pvt ltd | Five years cont: |Mymensingh |
+
+## 👨🏻‍🎓   Education :
+1. Barguna Polytechnic Institute
+Diploma In Computer Science
+2015-2016 Session
+Duration Four Years
+
+2. M.P.S.T High School
+Science
+2014-2015
+
+3. Computer Planet, Barguna
+Web design (Six months
+2019
+
+## Languages:
+- 🇧🇩 Bangla : Native
+- English : Advanced
+- Hindi : Intermediate
+
+## Sports / Game / Activities / Hobby :
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+Thanks for going through my Portfolio. All rights reserved by Anisul Islam @2024
