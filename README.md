@@ -86,4 +86,4 @@ Web design (Six months
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Travelling
 
-Thanks for going through my Portfolio. All rights reserved by Anisul Islam @2024
+Thanks for going through my Portfolio. All rights reserved by Humaun Kabir @2024
