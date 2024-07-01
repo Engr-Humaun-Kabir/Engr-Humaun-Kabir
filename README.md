@@ -7,6 +7,8 @@ A full time job employee
 
 🏠 Living: Mymensingh,Bangladesh
 
-[![facebook](./images/facebook.com.png)](https://www.facebook.com/BDMHK)
+
+
+[![facebook](image-1.png)](https://www.facebook.com/BDMHK) [![facebook](image-1.png)](https://x.com/BDmhk) [![facebook](image-1.png)](https://www.linkedin.com/in/bdmhk) 
 
 
