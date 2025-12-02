@@ -60,7 +60,7 @@ I am a passionate computer science teacher. I have been teaching programming lan
 
 | Designation | Company Name | Duration | Location |
 |-------------|--------------|----------|----------|
-| Jr.H.Engr   | Crown wears pvt ltd | Five years cont: |Mymensingh |
+| Jr.H.Engr   | Crown wears pvt ltd | Five years |Mymensingh |
 | IT Incharge  | Sparrow Greentech Pvt. ltd | 1 years + |Gazipur|
 
 ## 👨🏻‍🎓   Education :
